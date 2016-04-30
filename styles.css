@@ -1,8 +1,9 @@
 html  {
     font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: #ffffff;
 }
 
 body {
     background-size: contain;
-    background: url("black-colour1.jpg") 50% 50% no-repeat #000;
+    background: url("black-colour1.jpg") 50% 50% no-repeat #000000;
 }
